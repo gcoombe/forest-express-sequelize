@@ -1,6 +1,8 @@
 # Change Log
 
 ## [Unreleased]
+### Added
+- Validations - Start the support of forms validations (with 9 first validations).
 
 ## RELEASE 0.5.3 - 2016-12-14
 ### Fixed
