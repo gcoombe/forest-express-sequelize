@@ -22,7 +22,7 @@
   "main": "index.js",
   "dependencies": {
     "bluebird": "2.9.25",
-    "forest-express": "git+https://git@github.com:gcoombe/forest-express.git#intercom-use-access-tokens",
+    "forest-express": "git+https://git@github.com:gcoombe/forest-express.git#always-populate-smart-fields",
     "http-errors": "1.6.1",
     "lodash": "3.9.3",
     "moment": "2.10.6"
